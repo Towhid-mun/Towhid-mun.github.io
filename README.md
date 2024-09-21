@@ -1,6 +1,7 @@
-#### Certified ScrumMaster® |Ex. Staff Engineer @Samsung |ML Enthusiast
-
 ![](https://media.licdn.com/dms/image/v2/D4D16AQGpnzSZ4_vTDg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698382820695?e=1732147200&v=beta&t=yFuuipIA2V5iduNg8Nzt2EC3eXi_VJ8WOTzkvXeg-5g)
+
+# Towhidul Islam 
+#### Mobile Application Developer |Certified ScrumMaster® |Ex. Staff Engineer @Samsung |ML Enthusiast
 
 ## About Me
 I am a dedicated software architect, developer, and project lead with a rich and diverse experience in multiple domains. I've been in the industry since 2007, consistently delivering innovative solutions and leading successful projects. My technical expertise encompasses various programming languages, including C/C++, Java, C#, and Python. I thrive on challenges and have a proven track record in connectivity projects, where I've facilitated seamless communication between devices and systems. Additionally, I have a strong background in automation tool development, streamlining processes, and improving operational efficiency for my clients. Notably, I served as a Maintainer of IoTivity.org from February 2017 to January 2018, actively participating in developing cutting-edge IoT solutions and fostering collaboration within the IoT community.
