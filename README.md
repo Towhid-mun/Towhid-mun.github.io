@@ -80,13 +80,13 @@ GPA: 3.5/4.0
 -	**Samsung Note for Windows**, Team Lead, https://apps.microsoft.com/store/detail/samsung-notes/9NBLGGH43VHV?hl=en-nz&gl=nz 
 -	**IoT Test Tool Development**, Project Lead Samsung 
 -	**IoT Test F/W Development**, Project Lead 
--	Remote Access System, Project Lead 
-7.	Tizen Platform verification & Automation tools development, Project Lead
-8.	Wi-Fi Display Device Driver Development, Team Lead 
-9.	SIPDialer for Symbian OS, Team Lead 
-10.	X2Phone/Pingo Phone, Junior engineer 
-11.	SIP Session Control Server (SSC), Junior engineer 
-12.	iSoft Dialer (SSC), Programmer
+-	**Remote Access System**, Project Lead 
+- **Tizen Platform verification & Automation tools development**, Project Lead
+-	**Wi-Fi Display Device Driver Development**, Team Lead 
+-	**SIPDialer for Symbian OS**, Team Lead 
+-	**X2Phone/Pingo Phone**, Junior engineer 
+- **SIP Session Control Server (SSC)**, Junior engineer 
+- **iSoft Dialer (SSC)**, Programmer
 
 
 [![Towhid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Towhid-Mun)](https://github.com/Towhid-Mun/github-readme-stats)
