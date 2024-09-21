@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a dedicated software architect, developer, and project lead with a rich and diverse experience in multiple domains. I've been in the industry since 2007, consistently delivering innovative solutions and leading successful projects. My technical expertise encompasses various programming languages, including C/C++, Java, C#, and Python. I thrive on challenges and have a proven track record in connectivity projects, where I've facilitated seamless communication between devices and systems. Additionally, I have a strong background in automation tool development, streamlining processes, and improving operational efficiency for my clients. Notably, I served as a Maintainer of IoTivity.org from February 2017 to January 2018, actively participating in developing cutting-edge IoT solutions and fostering collaboration within the IoT community.
+I am a dedicated software architect and developer with a rich and diverse experience in multiple domains. I've been in the industry since 2007, consistently delivering innovative solutions and leading successful projects. My technical expertise encompasses various programming languages, including C/C++, Java, C#, and Python. I thrive on challenges and have a proven track record in connectivity projects, where I've facilitated seamless communication between devices and systems. Additionally, I have a strong background in automation tool development, streamlining processes, and improving operational efficiency for my clients. Notably, I served as a Maintainer of IoTivity.org from February 2017 to January 2018, actively participating in developing cutting-edge IoT solutions and fostering collaboration within the IoT community.
 
 ## Work Experience
 
@@ -28,11 +28,10 @@ I am a dedicated software architect, developer, and project lead with a rich and
 ## Education
 
 **Master of Science in Computer Engineering**  
-*Memorial University of Newfoundland* (Expected Graduation: 2025)  
+*Memorial University of Newfoundland* (2023 ~ Present)  
 
 **Bachelor of Science in Computer Science and Engineering**  
-*East West University, Bangladesh* (Graduated: 2007)  
-GPA: 3.5/4.0
+*East West University, Bangladesh*  
 
 ## Certifications
 
