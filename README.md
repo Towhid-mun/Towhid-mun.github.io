@@ -84,7 +84,7 @@ I am a dedicated software architect and developer with a rich and diverse experi
 - **SIPDialer for Symbian OS**, Team Lead 
 - **X2Phone/Pingo Phone**, Junior engineer
 - **SIP Session Control Server (SSC)**, Junior engineer
-- **iSoft Dialer (SSC)**, Programmer
+- **iSoft Dialer**, Programmer
     
 ## Connect with Me
 
