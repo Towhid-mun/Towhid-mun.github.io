@@ -44,7 +44,7 @@ GPA: 3.5/4.0
   
 ## Patent
 
-[Network Connection Method and Electronic Device Supporting Same](https://patentscope.wipo.int/search/en/detail.jsf?docId=KR338648323&_fid=US383825865)
+**[Network Connection Method and Electronic Device Supporting Same](https://patentscope.wipo.int/search/en/detail.jsf?docId=KR338648323&_fid=US383825865)**
 - USA# US383825865
 - South Korea# KR338648323
    
@@ -77,7 +77,7 @@ GPA: 3.5/4.0
 - **[Samsung DeX for PC](https://www.samsung.com/us/apps/dex/)**, Project Lead
 - **[Quick Share](https://apps.microsoft.com/store/detail/quickshare/9PCTGDFXVZLJ?hl=en-us&gl=us)**, Team Lead 
 - **[Samsung Note for Windows](https://apps.microsoft.com/store/detail/samsung-notes/9NBLGGH43VHV?hl=en-nz&gl=nz)**, Team Lead 
-- **IoT Test Tool Development**, Project Lead Samsung 
+- **IoT Test Tool Development**, Project Lead 
 - **IoT Test F/W Development**, Project Lead 
 - **Remote Access System**, Project Lead 
 - **Tizen Platform verification & Automation tools development**, Project Lead
