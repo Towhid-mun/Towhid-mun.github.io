@@ -65,7 +65,7 @@ I am a dedicated software architect and developer with a rich and diverse experi
 ## Skills
 
 **Programming Languages:** C/C++, .NET (C#, UWP, WPF), React Native, JAVA, PYTHON, Matlab, JavaScript
-**Large Languages Model:** LAMA2, LAMA3, Phi3
+**Large Language Model(LLM):** Llama 2, Llama3, Phi3  
 **Tools:** Visio, draw.io, Git, SVN, Perforce, MS Teams  
 **Soft Skills:** Leadership, Teamwork, Time Management, Communication, Decision-Making  
 **Project Management:** PLM, MS Project  
