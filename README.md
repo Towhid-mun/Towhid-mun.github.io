@@ -10,6 +10,11 @@ I am a dedicated software architect and developer with a rich and diverse experi
 
 ## Work Experience
 
+**Full-Stack Developer** |*NeuroAI* (12/2024 - continue)
+- Develop and maintain robust, scalable web and mobile applications and integrate NeuroAI's AI/ML models into user-facing and backend systems.  
+- Work on AI/ML model development and integrate NeuroAI's models into user-facing and backend systems alongside cross-functional teams.  
+- Partner with team members to deploy and optimize machine learning models for seamless real-time interaction. 
+
 **Staff Engineer** | *Samsung R&D Institute Bangladesh* (09/2010 - 09/2023)  
 - Led development of cutting-edge applications for Samsung.  
 - Managed teams of 10 to 20 software professionals.  
@@ -59,7 +64,8 @@ I am a dedicated software architect and developer with a rich and diverse experi
 
 ## Skills
 
-**Programming Languages:** C/C++, .NET (C#, UWP, WPF), JAVA, PYTHON, Matlab, JavaScript  
+**Programming Languages:** C/C++, .NET (C#, UWP, WPF), React Native, JAVA, PYTHON, Matlab, JavaScript
+**Large Languages Model:** LAMA2, LAMA3, Phi3
 **Tools:** Visio, draw.io, Git, SVN, Perforce, MS Teams  
 **Soft Skills:** Leadership, Teamwork, Time Management, Communication, Decision-Making  
 **Project Management:** PLM, MS Project  
